@@ -14,4 +14,4 @@ After that, an http-server will start (mostly in port 8080), so check the code i
 
 ## Index
 
-- Example 01
+- [Example 01](https://github.com/alexserver/webpack-examples/blob/example01/readme.md)
